@@ -51,7 +51,7 @@
     "backup_keep_last_amount": "Anzahl der aufzubewahrenden früheren Backups",
     "backup_onboarding_1_description": "Offsite-Kopie in der Cloud oder an einem anderen physischen Ort.",
     "backup_onboarding_2_description": "Lokale Kopien auf verschiedenen Geräten. Dazu gehören die Hauptdateien und eine lokale Sicherung dieser Dateien.",
-    "backup_onboarding_3_description": "3 komplette Kopien deiner Daten, inkl. der Originaldateien. Dies umfasst 1 Kopie an einem anderen Ort und 2 lokale Kopie.",
+    "backup_onboarding_3_description": "3 komplette Kopien deiner Daten, inkl. der Originaldateien. Dies umfasst 1 Kopie an einem anderen Ort und 2 lokale Kopien.",
     "backup_onboarding_description": "Eine <backblaze-link>3-2-1 Backup-Strategie</backblaze-link> wird empfohlen, um deine Daten zu schützen. Du solltest sowohl Kopien deiner hochgeladenen Fotos/Videos als auch der Immich-Datenbank aufbewahren, um eine umfassende Backup-Lösung zu haben.",
     "backup_onboarding_footer": "Weitere Informationen zum Sichern von Immich findest du in der <link>Dokumentation</link>.",
     "backup_onboarding_parts_title": "Eine 3-2-1-Sicherung umfasst:",
